@@ -11,5 +11,21 @@ def word_length(word):
         return len(word)
     
     
-"""" Test 2 - is Palindrome? [Es palindromo] """
+""" Test 2 - Reverse Word [Palabra al Reves]"""
+
+def reverse_word(word):
+    # La funcion recibe un string, y debe retornar
+    # el String al reves. En canso de encontrar,
+    # un Palindromo, debe retornar el mensaje:
+    # "Encontre un Palíndromo!"
+    # PD: Realizar la solucion, de 2 maneras
+    # una utilizando programacion imperativa,
+    # y la otra, utilizando programaciom,
+    # declarativa.
+    # Tu codigo AQUI:
+     
+    
+    
+
+""" Test 2 - is Palindrome? [Es palindromo] """
     
