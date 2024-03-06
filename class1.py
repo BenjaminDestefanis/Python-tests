@@ -11,7 +11,19 @@ def word_length(word):
         return len(word)
     
     
-""" Test 2 - Reverse Word [Palabra al Reves]"""
+"""" Test 2 - Count Letters [Contador de letras] """
+    
+def count_letters(word):
+    # La funcion recibe un string, y debe retornar la suma de 3 valores, 
+    # la cantidad de letras, vocales y consonantes. 
+    # EJ: word = 'programmer' - Return 20
+    # Tu codigo AQUI:
+        
+    return 0
+        
+""" Test 3 - Count Letter 2.0 [Contador de letras 2.0]"""
+
+""" Test 4 - Reverse Word [Palabra al Reves]"""
 
 def reverse_word(word):
     # La funcion recibe un string, y debe retornar
@@ -22,10 +34,6 @@ def reverse_word(word):
     # una utilizando programacion imperativa,
     # y la otra, utilizando programaciom,
     # declarativa.
-    # Tu codigo AQUI:
-     
-    
-    
-
-""" Test 2 - is Palindrome? [Es palindromo] """
-    
+    # Tu codigo AQUI:    45
+        
+    return 0
