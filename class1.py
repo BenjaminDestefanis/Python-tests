@@ -41,5 +41,16 @@ def reverse_word(word):
 
 """ Test 5 - Cesar Encryptation - [Cifrado Cesar]"""
 
-
+def cesar_encryptation(message, postition):
+    # En la criptografia, el cifrado Cesar, tambien conocido como "cifrado
+    # por desplazamiento, es un tipo de cifrado por sustitucion en que una 
+    # letra en el texto original es reemplazada por otra letra que se 
+    # encuntra un numero fijo de posiciones mas adelante en el alfabeto.
+    # La funcion recibe un mensaje(encriptado), un un numero (posicion)
+    # cada letra del mensaje sera reemplazada por la posicion que le siga
+    # en el abecedario, contando los lugares de acuerdo al numero recibido
+    # por la funcion (position)
+    # Tu codigo AQUI:
+        
+    return 0
 
